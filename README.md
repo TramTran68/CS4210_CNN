@@ -29,5 +29,5 @@ The script will:
 
 ## **Output**
 The program will print the test accuracy and test loss for the CNN model after evaluation:  
-Test accuracy: <value>  
-Test loss: <value>  
+Test accuracy: {value}  
+Test loss: {value}
