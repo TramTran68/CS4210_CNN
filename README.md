@@ -17,10 +17,10 @@ You can install the necessary dependencies using the following command:
 pip install tensorflow numpy pillow
 
 ## **Usage**
-- Ensure that the digit_dataset directory with train and test subdirectories is in the same directory as the cnn.py script.
-- Run the script: python cnn.py    
-- The script will:
--- Load the images from the train and test directories.
+Ensure that the digit_dataset directory with train and test subdirectories is in the same directory as the cnn.py script.  
+Run the script: python cnn.py    
+The script will:
+- Load the images from the train and test directories.
 - Preprocess the images (convert to grayscale, resize, and normalize pixel values).
 - Build a CNN model using Keras.
 - Train the model on the training dataset.
