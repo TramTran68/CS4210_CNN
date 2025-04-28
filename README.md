@@ -13,8 +13,6 @@ digit_dataset/test - Directory containing the test images.
 - tensorflow  
 - numpy  
 - Pillow (PIL)  
-You can install the necessary dependencies using the following command:
-pip install tensorflow numpy pillow
 
 ## **Usage**
 Ensure that the digit_dataset directory with train and test subdirectories is in the same directory as the cnn.py script.  
